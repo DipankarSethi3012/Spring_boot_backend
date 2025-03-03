@@ -1,6 +1,4 @@
-Here is a basic README.md file for your project:
 
-```markdown
 # Spring_boot_backend
 
 This is a backend project built using Spring Boot.
@@ -53,4 +51,4 @@ The application will start on `http://localhost:8080`.
 This project is licensed under the MIT License.
 ```
 
-You can create this file in your repository by navigating to [this link](https://github.com/DipankarSethi3012/Spring_boot_backend/new/main?filename=README.md) and pasting the content above.
+
